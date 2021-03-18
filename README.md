@@ -1,5 +1,7 @@
 # TODO APP
 ## todo detail app
+### GIF
+![GIF](tododetailgif.gif)
 ### App Screenshot 
 ![](./todoss1.jpg)
 ![](./todoss2.jpg)
